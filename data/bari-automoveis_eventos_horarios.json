@@ -2012,8 +2012,8 @@
       "SUGESTOES": "",
       "sugestoes": "",
       "nomeRm": "( - ) DESC. ADIANTAMENTO SALARIAL",
-      "hasDivergencia": true,
-      "hasDivergenciaDuplicidade": true,
+      "hasDivergencia": false,
+      "hasDivergenciaDuplicidade": false,
       "hasDivergenciaTipo": false
     },
     {
@@ -2043,10 +2043,10 @@
       "observacao": "",
       "SUGESTOES": "",
       "sugestoes": "",
-      "nomeRm": "ESTOURO DO MES ( + )",
-      "hasDivergencia": true,
-      "hasDivergenciaDuplicidade": true,
-      "hasDivergenciaTipo": true
+      "nomeRm": "( - ) DESC. ADIANTAMENTO SALARIAL",
+      "hasDivergencia": false,
+      "hasDivergenciaDuplicidade": false,
+      "hasDivergenciaTipo": false
     },
     {
       "rowNum": 65,
@@ -2075,9 +2075,9 @@
       "observacao": "",
       "SUGESTOES": "",
       "sugestoes": "",
-      "nomeRm": "DESC. ESTOURO DO MES ANTERIOR ( - )",
-      "hasDivergencia": true,
-      "hasDivergenciaDuplicidade": true,
+      "nomeRm": "( - ) DESC. ADIANTAMENTO SALARIAL",
+      "hasDivergencia": false,
+      "hasDivergenciaDuplicidade": false,
       "hasDivergenciaTipo": false
     },
     {
@@ -6183,7 +6183,7 @@
       "NOME_DE": "Quebra de Caixa",
       "TIPO_EVENTO": "PROVENTOS",
       "COLIGADA_PARA": "",
-      "CODIGO_PARA": "CRIAR 15%",
+      "CODIGO_PARA": "0498",
       "NOME_RM": "#N/A",
       "CODIGO_PARA_FICHA_MES1": "",
       "CODIGO_PARA_FICHA_MES2": "",
@@ -6195,7 +6195,7 @@
       "nomeDe": "Quebra de Caixa",
       "tipoEvento": "PROVENTOS",
       "coligadaPara": "",
-      "codigoPara": "CRIAR 15%",
+      "codigoPara": "0498",
       "codigoParaFichaMes1": "",
       "codigoParaFichaMes2": "",
       "codigoParaVerbasFerias": "",
